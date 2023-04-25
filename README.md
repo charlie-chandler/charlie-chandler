@@ -7,7 +7,7 @@
 
 - I’m currently learning **Python**
 
-- I’m looking to collaborate on projects related to **Smart Cities** and **NLP**
+- I’m looking to collaborate on projects related to **Transport tech** and **NLP**
 
 - How to reach me: **charlesmjchandler@gmail.com**
 
