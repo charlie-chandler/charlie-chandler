@@ -5,7 +5,7 @@
 
 - I’m currently working on **a sentiment analysis project**
 
-- I’m currently learning **Python**
+- I’m currently learning **Typescript**
 
 - I’m looking to collaborate on projects related to **Transport tech** and **NLP**
 
