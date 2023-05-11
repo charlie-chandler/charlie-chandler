@@ -39,9 +39,9 @@
 <h3>Testing</h3>
 
 [![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)](https://mochajs.org/)
-[![Chai](https://img.shields.io/badge/-Chai-white?style=for-the-badge&logo=chai&logoColor=A30701)](https://www.chaijs.com/)
+[![Chai](https://img.shields.io/badge/-Chai-A30701?style=for-the-badge&logo=chai&logoColor=white)](https://www.chaijs.com/)
 [![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](https://storybook.js.org/)
-[![Jest](https://img.shields.io/badge/-Jest-white?style=for-the-badge&logo=jest&logoColor=C21325)](https://jestjs.io/)
+[![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 [![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
 
 
