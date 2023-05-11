@@ -11,8 +11,11 @@
 
 - How to reach me: **charlesmjchandler@gmail.com**
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/charles-m-chandler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles-m-chandler" height="30" width="40" /> </a>
-</p>
+<h3 align="left">Connect with me:</h3> 
+<a href="https://www.linkedin.com/in/charlesmchandler"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:charlesmjchandler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br/>
 
 <h3>Languages</h3>
 
