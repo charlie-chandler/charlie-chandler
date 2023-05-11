@@ -44,10 +44,15 @@
 
 <h3>Systems, CMS & Databases</h3>
 
-[![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=#F05032)](https://git-scm.com/)
+[![Git](https://img.shields.io/badge/Git-F24E1E?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+<h3>Additional Softwares</h3>
+
 [![Postman](https://img.shields.io/badge/-postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Figma](https://img.shields.io/badge/-figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
+[![Chart.js](https://img.shields.io/badge/-chartjs-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://chartjs.org/)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlie-chandler&show_icons=true&locale=en&layout=compact" alt="charlie-chandler" /></p>
