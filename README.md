@@ -28,7 +28,7 @@
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
-[![Rails](https://img.shields.io/badge/rails-CC0000?style=for-the-badge&logo=rails&logoColor=white)](https://rubyonrails.org/)
+[![Rails](https://img.shields.io/badge/rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)](https://rubyonrails.org/)
 [![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![AJAX](https://img.shields.io/badge/ajax-%23316192.svg?style=for-the-badge&logo=ajax&logoColor=white)](https://en.wikipedia.org/wiki/Ajax_(programming))
@@ -50,13 +50,15 @@
 [![Git](https://img.shields.io/badge/Git-F24E1E?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![YAML](https://img.shields.io/badge/yaml-4B1E78.svg?style=for-the-badge&logo=yaml&logoColor=white)](https://www.yaml.org/)
 
 <h3>Additional Softwares</h3>
 
 [![Postman](https://img.shields.io/badge/-postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Figma](https://img.shields.io/badge/-figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
 [![Chart.js](https://img.shields.io/badge/-chartjs-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://chartjs.org/)
-
+[![Photoshop](https://img.shields.io/badge/-photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)]()
+[![Illustrator](https://img.shields.io/badge/-illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)]()
+[![Figma](https://img.shields.io/badge/-figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlie-chandler&show_icons=true&locale=en&layout=compact" alt="charlie-chandler" /></p>
 
