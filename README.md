@@ -7,7 +7,7 @@
 
 - I’m currently learning **Typescript**
 
-- I’m looking to collaborate on projects related to **Transport tech** and **NLP**
+- I’m looking to collaborate on projects related to **Transport tech** and **Health tech**
 
 - How to reach me: **charlesmjchandler@gmail.com**
 
