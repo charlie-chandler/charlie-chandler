@@ -3,7 +3,7 @@
 
 <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/grid-snake.svg" alt="snake" style="max-width: 100%;">
 
-- I’m currently working on **my personal portfolio**
+- I’m currently working on **mosaic-themed art game**
 
 - I’m currently learning **Typescript**
 
