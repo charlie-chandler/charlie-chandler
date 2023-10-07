@@ -3,9 +3,9 @@
 
 <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/grid-snake.svg" alt="snake" style="max-width: 100%;">
 
-- I’m currently working on **mosaic-themed art game**
+- I’m currently working on a **Roman mosaic themed art application**
 
-- I’m currently learning **Typescript**
+- I’m currently learning **Tailwind and Next.js**
 
 - I’m looking to collaborate on projects related to **Health tech** and **Fintech**
 
